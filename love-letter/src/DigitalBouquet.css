@@ -1,0 +1,43 @@
+.bouquet-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.romantic-message {
+  margin-top: 1.5rem;
+  font-family: 'Pacifico', cursive;
+  color: #c2185b;
+  font-size: 1.35rem;
+  background: #fff0f6;
+  border-radius: 12px;
+  padding: 1.2rem 2rem;
+  box-shadow: 0 2px 8px rgba(255, 182, 193, 0.10);
+  text-align: center;
+  max-width: 420px;
+}
+
+.bouquet-section h2 {
+  font-family: 'Pacifico', cursive;
+  color: #ad1457;
+  font-size: 2.1rem;
+  margin-bottom: 1.2rem;
+}
+
+.bouquet-instruction {
+  color: #d81b60;
+  font-size: 1rem;
+  margin-top: 1.2rem;
+  font-style: italic;
+}
+
+.romantic-image {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  max-width: 340px;
+  width: 100%;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(173, 20, 87, 0.13);
+  object-fit: cover;
+} 
